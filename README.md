@@ -1,5 +1,10 @@
 <h1>Daily Routine Schedule</h1>
-React Web App <hr>
+<h3>React Web App</h3> 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24386b25-ef7c-4cab-830c-1c36124dd3e5/deploy-status)](https://daily-routine-schedule.netlify.app/)
+
+
+<hr>
 Build with class Components. One component created also integrated two buttons ADD and Delete to add and delete items.
 <hr>
 <img width="1362" alt="Screenshot 2024-02-14 at 7 33 1" src="https://github.com/roaryku/routine-schedule-daily/assets/119984393/3151fdc8-f4e7-4dd9-98ad-a22fd1d8a4d9">
