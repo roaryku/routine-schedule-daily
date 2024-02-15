@@ -1,3 +1,11 @@
+<h1>Daily Routine Schedule</h1>
+React Web App <hr>
+Build with class Components. One component created also integrated two buttons ADD and Delete to add and delete items.
+<hr>
+<img width="1362" alt="Screenshot 2024-02-14 at 7 33 1" src="https://github.com/roaryku/routine-schedule-daily/assets/119984393/3151fdc8-f4e7-4dd9-98ad-a22fd1d8a4d9">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
