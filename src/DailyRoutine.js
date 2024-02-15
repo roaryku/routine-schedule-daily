@@ -33,9 +33,14 @@ export class DailyRoutine extends Component{
           li.classList.toggle('crossed')
     }
 
+    onFormSubmit(e) {
+        e.preventDefault()
+    }
+
      render(){
         return (
             <div>
+                <form onSubmit={this.onFormSubmit}>
             <div className="Header">
                 <input className="Input" type="text" placeholder="Today's schedule"
                  onChange={(e) => {this.onChangeEvent (e.target.value)}}
@@ -59,6 +64,7 @@ export class DailyRoutine extends Component{
             <div className="Header">
                 <button onClick={() => this.deleteItem ()} className="btn Delete">Delete</button>
             </div>
+            </form>
         </div>
            
         )
